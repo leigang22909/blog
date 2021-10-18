@@ -1,0 +1,9 @@
+2021-10-08 11:27:33.109  INFO 41040 --- [restartedMain] com.lrm.BlogApplication                  : Starting BlogApplication using Java 1.8.0_131 on LAPTOP-EKFDIT22 with PID 41040 (D:\2597904704\blog\target\classes started by lenovo in D:\2597904704\blog)
+2021-10-08 11:27:33.111  INFO 41040 --- [restartedMain] com.lrm.BlogApplication                  : The following profiles are active: pro
+2021-10-08 11:27:33.739  WARN 41040 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.lrm]' package. Please check your configuration.
+2021-10-08 11:27:34.433  WARN 41040 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2021-10-08 11:27:34.723  INFO 41040 --- [restartedMain] com.lrm.BlogApplication                  : Started BlogApplication in 2.13 seconds (JVM running for 3.258)
+2021-10-08 11:34:34.345  INFO 39368 --- [restartedMain] com.lrm.BlogApplication                  : Starting BlogApplication using Java 1.8.0_131 on LAPTOP-EKFDIT22 with PID 39368 (D:\2597904704\blog\target\classes started by lenovo in D:\2597904704\blog)
+2021-10-08 11:34:34.348  INFO 39368 --- [restartedMain] com.lrm.BlogApplication                  : The following profiles are active: pro
+2021-10-08 11:34:35.400  WARN 39368 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.lrm]' package. Please check your configuration.
+2021-10-08 11:34:36.714  INFO 39368 --- [restartedMain] com.lrm.BlogApplication                  : Started BlogApplication in 3.167 seconds (JVM running for 4.769)
